@@ -11,13 +11,13 @@ How To
     }).render();
 
 Add one of these classes to your html for fields.
-    - required
-    - email
-    - url
-    - date
-    - dateISO
-    - number
-    - digits
+    * required
+    * email
+    * url
+    * date
+    * dateISO
+    * number
+    * digits
 
 Options
 -------
