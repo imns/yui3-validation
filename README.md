@@ -13,7 +13,7 @@ How To
         debug: false #optional
     }).render();
 
-Add one of these classes to your html for fields.
+Add one of these classes to your html form fields.
 * required
 * email
 * url
