@@ -6,7 +6,7 @@ A YUI3 widget that's modeled after the famousjquery-validation plugin
 How To
 ------
 
-    new Y.NateValidate({
+    new Y.YUI3Validation({
         formName: "#myForm",
         errorClass: 'my-error-class', #optional
         handleSubmit: mySubmitFun, #optional
