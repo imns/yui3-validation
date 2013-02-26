@@ -1,7 +1,7 @@
 yui3-validation
 ===============
 
-A YUI3 widget that's modeled after the famousjquery-validation plugin
+A YUI3 widget that's modeled after the famous jquery-validation plugin
 
 How To
 ------
