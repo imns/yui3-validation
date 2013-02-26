@@ -7,7 +7,10 @@ How To
 ------
 
     new Y.NateValidate({
-        formName: "#myForm"
+        formName: "#myForm",
+        errorClass: 'my-error-class', #optional
+        handleSubmit: mySubmitFun, #optional
+        debug: false #optional
     }).render();
 
 Add one of these classes to your html for fields.
@@ -19,7 +22,7 @@ Add one of these classes to your html for fields.
 * number
 * digits
 
-Options
+Optional Params
 -------
 - errorClass - default: 'nv_error' (the class that gets applied to all error messages)
 - handleSubmit - default: null  (a function that handles the form submit action)
