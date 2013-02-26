@@ -11,7 +11,7 @@ How To
     }).render();
 
 Add one of these classes to your html for fields.
-    * required
+* required
     * email
     * url
     * date
